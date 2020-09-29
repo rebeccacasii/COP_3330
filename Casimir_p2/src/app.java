@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class apptest 
+public class app
 {
     //public static Scanner sc = new Scanner(System.in);
     public static boolean moreInput()
